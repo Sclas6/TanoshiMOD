@@ -1,0 +1,15 @@
+
+itemGroup.TanoshiTab=わーい！
+
+item.SandStar.name=サンドスター
+item.Japariman.name=じゃぱりまん
+tile.SandStar_tile.name=サンドスター
+item.RuckyBeast.name=ラッキービースト
+item.tanoshimod:park_boushi.name=パークガイドの帽子
+item.tanoshimod:park_boushi_r.name=赤い羽根の帽子
+item.tanoshimod:park_boushi_b.name=青い羽根の帽子
+item.tanoshimod:park_boushi_0.name=穴あきの帽子
+item.Red_Feather.name=赤い羽根
+item.Blue_Feather.name=青い羽根
+item.Japari_Coin.name=ジャパリコイン
+tile.Snake_Specimen_block.name=ヘビの標本

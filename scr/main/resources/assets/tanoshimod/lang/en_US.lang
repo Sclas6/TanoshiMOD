@@ -1,0 +1,15 @@
+
+itemGroup.TanoshiTab=Welcome to Youkoso JapariPark!
+
+item.SandStar.name=SandStar
+item.Japariman.name=Japari man
+tile.SandStar_tile.name=SandStar
+item.RuckyBeast.name=LuckyBeast
+item.tanoshimod:park_boushi.name=Park Guide Hat
+item.tanoshimod:park_boushi_r.name=Park Guide Hat
+item.tanoshimod:park_boushi_b.name=Park Guide Hat
+item.tanoshimod:park_boushi_0.name=Hat
+item.Red_Feather.name=Red Feather
+item.Blue_Feather.name=Blue Feather
+item.Japari_Coin.name=Japari Coin
+tile.Snake_Specimen_block.name=Snake Specimen

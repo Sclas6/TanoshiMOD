@@ -1,0 +1,14 @@
+{
+  "SandStar": {
+    "category": "neutral",
+    "sounds": [
+      "SandStar"
+    ]
+  },
+    "japari_coin": {
+    "category": "neutral",
+    "sounds": [
+      "japari_coin"
+    ]
+  }
+}
