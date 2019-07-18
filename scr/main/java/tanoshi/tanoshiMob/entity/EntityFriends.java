@@ -6,9 +6,10 @@ import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityAgeable;
 import net.minecraft.entity.EnumCreatureAttribute;
 import net.minecraft.entity.passive.EntityAnimal;
+import net.minecraft.entity.passive.EntityVillager;
 import net.minecraft.world.World;
 
-public class EntityFriends extends EntityAnimal {
+public class EntityFriends extends EntityVillager {
 
     public EntityFriends(World world)
     {
@@ -39,7 +40,7 @@ public class EntityFriends extends EntityAnimal {
 			return p_82704_1_ instanceof EntityServal;
 		}
 	};
-	//繁殖
+	//郢∵ｮ�
     public EntityFriends createChild(EntityAgeable p_90011_1_)
     {
         return new EntityFriends(this.worldObj);
@@ -50,7 +51,7 @@ public class EntityFriends extends EntityAnimal {
 		this.playSound("mob.wolf.step", 0.15F, 1.0F);
 	}
 
-	// リード
+	// 繝ｪ繝ｼ繝�
 	@Override
 	protected void updateLeashedState() {
 		super.updateLeashedState();
